@@ -57,14 +57,14 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/webrologo.png"
+                  src="/images/thewebrolight.png"
                   alt="logo"
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/webrologo.png"
+                  src="/images/thewebrodark.png"
                   alt="logo"
                   width={140}
                   height={30}
