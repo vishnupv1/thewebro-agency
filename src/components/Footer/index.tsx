@@ -247,7 +247,7 @@ const Footer = () => {
             <circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#959CB1" />
             <mask
               id="mask0_94:899"
-              style={{ maskType: "alpha" }}
+              className="mask-alpha"
               maskUnits="userSpaceOnUse"
               x="0"
               y="0"

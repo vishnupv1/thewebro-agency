@@ -241,7 +241,7 @@ const BlogSidebarPage = () => {
                         />
                         <mask
                           id="mask0_111:596"
-                          style={{ maskType: "alpha" }}
+                          className="mask-alpha"
                           maskUnits="userSpaceOnUse"
                           x="0"
                           y="0"
