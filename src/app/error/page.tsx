@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Error Page | Free Next.js Template for Startup and SaaS",
+  title: "Error Page |thewebro",
   description: "This is Error Page for Startup Nextjs Template",
   // other metadata
 };
@@ -45,7 +45,7 @@ const ErrorPage = () => {
                     />
                     <mask
                       id="mask0_116:1137"
-                      style={{ maskType: "alpha" }}
+                      className="maskStyle"
                       maskUnits="userSpaceOnUse"
                       x="159"
                       y="13"

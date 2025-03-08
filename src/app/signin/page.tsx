@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign In Page | Free Next.js Template for Startup and SaaS",
+  title: "Sign In Page |thewebro",
   description: "This is Sign In Page for Startup Nextjs Template",
   // other metadata
 };
@@ -178,7 +178,7 @@ const SigninPage = () => {
           >
             <mask
               id="mask0_95:1005"
-              style={{ maskType: "alpha" }}
+              className="mask-alpha"
               maskUnits="userSpaceOnUse"
               x="0"
               y="0"
